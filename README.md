@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I'm Matias Leiva 👋
 
-<!--
-**Matias-Leiva/Matias-Leiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate React Native developer with a knack for creating engaging and efficient mobile applications. I love coding and learning new technologies.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript, TypeScript, HTML, CSS
+- **Frameworks/Libraries:** React, React Native
+- **Tools:** Git, npm, yarn, Expor, Android Studio, Xcode
+- **Others:** RESTful APIs, GraphQL, Firebase, Jest
+
+## 📫 Get in Touch
+
+- **LinkedIn:** [Matias Oscar Leiva](https://www.linkedin.com/in/matias-oscar-leiva/)
+- **Website:** [LeivaMatias.com](https://leivamatias.com)
+- **Email:** [info@matiasoscarleiva.com](mailto:info@leivamatias.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=Matias-Leiva&color=blue)
